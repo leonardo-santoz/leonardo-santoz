@@ -1,11 +1,11 @@
 ### Hi, i'm Leonardo :rocket:
 
-I'm a fullstack developer in progress focused on the follow JavaScript stack:
+I'm a fullstack developer in progress focused on the follow JavaScript stack: </br>
 Node.js, React and React Native.
 
 I believe in the technology as a way to transform lives providing more practicality, productivity and time.
 
-Skills/Interests: 
+Skills/Interests: </br>
 .Net Core Api/Mvc, C#, SQL Server, JavaScript, HTML, CSS, Angular, Node.js, React, React Native and Git.
 
 <p>
