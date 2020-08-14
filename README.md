@@ -1,4 +1,4 @@
-### Hi, i'm Leonardo 👋
+### Hi, i'm Leonardo :rocket:
 
 I'm a fullstack developer in progress focused on the follow JavaScript stack:
 Node.js, React and React Native.
